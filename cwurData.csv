@@ -1,0 +1,25 @@
+world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year
+786,Fukuoka University,Japan,62,355,478,210,972,852,800,783,259,44.54,2014
+787,Nagoya Institute of Technology,Japan,63,355,310,210,775,948,609,897,280,44.54,2014
+788,Ankara University,Turkey,5,355,461,210,751,723,493,739,737,44.54,2014
+789,Blaise Pascal University,France,39,355,478,210,735,689,406,716,481,44.54,2014
+790,University of Electronic Science and Technology of China,China,43,355,400,210,589,910,800,897,259,44.54,2014
+791,National Sun Yat-sen University,Taiwan,11,355,478,210,453,897,800,739,737,44.54,2014
+792,University of Rouen,France,40,350,478,210,689,720,609,783,280,44.54,2014
+793,Bowling Green State University,USA,215,355,365,210,907,653,609,756,737,44.54,2014
+794,Norwegian University of Life Sciences,Norway,5,,478,210,757,578,493,703,637,44.54,2014
+813,Inje University,South Korea,28,,567,218,838,928,,809,331,44.22,2015
+814,Aberystwyth University,United Kingdom,59,367,567,218,842,552,511,754,607,44.22,2015
+815,"University of Technology, Sydney",Australia,23,367,543,218,580,w668w,511,796,520,,2015
+816,University of Franche-Comté,France,39,302,567,218,743,814,511,770,583,44.22,2015
+817,University of Sassari,Italy,45,367,567,218,758,592,812,754,805,44.21,2015
+818,Chiang Mai University,Thailand,3,367,550,218,847,753,511,754,871,44.21,2015
+819,Budapest University of Technology and Economics,Hungary,5,256,567,218,740,761,645,781,529,44.21,2015
+820,University of Maribor,Slovenia,2,367,567,218,853,820,,754,752,44.21,2015
+821,University of Bradford,United Kingdom,60,367,287,218,859,772,812,886,567,44.21,2015
+822,University of Perpignan Via Domitia,France,40,160,567,218,974,580,428,826,871,44.21,2015
+823,Florida Institute of Technology,USA,214,367,567,218,973,793,368,770,871,44.21,2015
+824,University of Brighton,United Kingdom,w61w,367,567,218,854,829,812,754,766,44.21,2015
+825,University of Massachusetts Boston,USA,215,367,429,218,846,698,428,796,824,44.21,2015
+826,Rio de Janeiro State University,Brazil,8,367,567,218,760,910,511,770,739,44.21,2015
+827,Nagoya Institute of Technology,Japan,60,367,504,218,825,958,645,921,229,44.2,2015
